@@ -1,6 +1,6 @@
 ### Date countdown app
 
-![snapshot](images/Screenshot 2021-11-29 141929.png)
+![snapshot](https://github.com/Lax-Walrus/dateCountDown/blob/main/images/Screenshot%202021-11-29%20141929.png?raw=true)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
