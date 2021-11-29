@@ -1,6 +1,6 @@
 ### Date countdown app
 
-![snapshot](/images/Screenshot 2021-11-29 141929.png)
+![snapshot](images/Screenshot 2021-11-29 141929.png)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
